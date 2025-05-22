@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "upgrade_tools:stone_upgrade"
+    }
+  },
+  "result": {
+    "item": "upgrade_tools:iron_upgrade",
+    "count": 1
+  }
+}

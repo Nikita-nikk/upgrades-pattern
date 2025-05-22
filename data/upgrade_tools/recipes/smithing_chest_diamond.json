@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "upgrade_tools:diamond_upgrade"
+  },
+  "base": {
+    "item": "minecraft:golden_chestplate"
+  },
+  "addition": {
+    "item": "minecraft:diamond"
+  },
+  "result": {
+    "item": "minecraft:diamond_chestplate"
+  }
+}

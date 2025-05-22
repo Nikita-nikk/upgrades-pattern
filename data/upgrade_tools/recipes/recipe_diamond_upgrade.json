@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diamond"
+    },
+    "b": {
+      "item": "upgrade_tools:gold_upgrade"
+    }
+  },
+  "result": {
+    "item": "upgrade_tools:diamond_upgrade",
+    "count": 1
+  }
+}
